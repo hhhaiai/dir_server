@@ -182,7 +182,7 @@ if __name__ == "__main__":
 
         # 正确方式：移除逗号，确保是字符串类型
         # dir_path = str(Path.home() / "Desktop/Magic-HTML-API")
-        dir_path = "/Users/sanbo/Desktop/Fofa-hack-main"
+        dir_path = "/Users/sanbo/Desktop/hf"
         output_file = str(Path.home() / "Desktop/file_tree.txt")
         
         # 添加路径检查
